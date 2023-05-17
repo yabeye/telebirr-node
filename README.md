@@ -1,13 +1,13 @@
-# telebirr-js
+# telebirr-node
 
 Telebirr integration package for node
 
 ## Usage
 
-install the package `npm i telebirr-js`
+install the package `npm i telebirr-node`
 
 ```javascript
-const Telebirr = require('telebirr-js');
+const Telebirr = require('telebirr-node');
 
 const telebirr = new Telebirr({
   appId: 'YOUR TELEBIRR APP ID',
