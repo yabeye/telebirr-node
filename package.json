@@ -1,0 +1,35 @@
+{
+  "name": "telebirr-js",
+  "version": "1.0.0",
+  "description": "Telebirr integration package for node",
+  "main": "telebirr.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yabeye/telebirr-js.git"
+  },
+  "keywords": [
+    "telebirr",
+    "tele",
+    "birr",
+    "ethiopia",
+    "payment",
+    "fintech"
+  ],
+  "author": "@yabeye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yabeye/telebirr-js/issues"
+  },
+  "homepage": "https://github.com/yabeye/telebirr-js#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "joi": "^17.9.2",
+    "node-rsa": "^1.1.1"
+  }
+}
