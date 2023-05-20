@@ -1,6 +1,6 @@
 {
   "name": "telebirr-node",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Telebirr integration package for node",
   "main": "telebirr.js",
   "scripts": {
