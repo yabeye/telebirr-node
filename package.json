@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yabeye/telebirr-js.git"
+    "url": "git+https://github.com/yabeye/telebirr-node.git"
   },
   "keywords": [
     "telebirr",
@@ -21,9 +21,9 @@
   "author": "@yabeye",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yabeye/telebirr-js/issues"
+    "url": "https://github.com/yabeye/telebirr-node/issues"
   },
-  "homepage": "https://github.com/yabeye/telebirr-js#readme",
+  "homepage": "https://github.com/yabeye/telebirr-node#readme",
   "devDependencies": {
     "jest": "^29.5.0"
   },
